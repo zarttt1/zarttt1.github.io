@@ -1,0 +1,1 @@
+<?php header('Content-Type: application/json'); echo file_get_contents('../geojson/titik_digitasi.geojson'); ?>
